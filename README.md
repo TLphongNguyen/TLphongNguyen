@@ -54,9 +54,10 @@
 
 ### Commit graph
 
-![Tq's github contribution grid snake game](https://raw.githubusercontent.com/tquann286/tquann286/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/tquann286/tquann286/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Tq's github contribution grid snake game](https://github.com/TLphongNguyen/TLphongNguyen/blob/output/github-contribution-grid-snake-dark.svg)![github contribution grid snake animation](https://github.com/TLphongNguyen/TLphongNguyen/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
 
 
 
