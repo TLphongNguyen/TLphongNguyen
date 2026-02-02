@@ -47,9 +47,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-[![Top used Languages](https://readme-typing-svg.herokuapp.com?color=%236999EB&height=40&lines=Top+Used+Languages)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TLphongNguyen&layout=compact&exclude_repo=fontawesome,shopee,Love_travel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Commit graph
@@ -59,6 +57,7 @@
 
 
 ---
+
 
 
 
